@@ -1,0 +1,61 @@
+body{
+    text-align:center;
+    margin: 0;
+    padding-top: 550px;
+    }
+.profile{
+    width:400px;
+    border-radius: 50%;
+}
+#hola{
+    bottom: 0;
+}
+.menu{
+    position:fixed;
+    background: aquamarine;
+    width:100%;
+    margin-top:0px;
+    top:0px;
+    z-index:10;
+    list-style:none;
+    top:10px;
+    right:10px;
+    z-index:10;
+    cursor: pointer;
+}
+.link{
+    display:inline;
+    float: left;
+padding-top:5px;
+padding-left:9px;
+padding-right:9px;
+padding-bottom:5px;
+font-size:20px;
+font-family: 'Smokum', cursiva;
+}
+.links:hover{
+    font-size:30px;
+    text-decoration:underline;
+}
+h1{
+    font-size:40px;
+    font-family:sans-serif;
+    font-weight:300;
+}
+.memes{
+    width: 350px;
+}
+#memes a{
+    text-decoration: underline !important;
+    
+}
+.line{
+    height:6px;
+    background-color:gray;
+    width: 70px;
+    margin:8px auto;
+}
+#name{
+    font-size:50px;
+    font-family:cursive;
+}
